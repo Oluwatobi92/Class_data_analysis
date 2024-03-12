@@ -6,4 +6,4 @@ This data analysis project focuses on the participants of the SkilHarvest Data A
 
 ## <p align='left'/> Problem statement </p>
 
-##
+## <p align='left'/> Data transformation and cleaning </p>
