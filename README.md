@@ -7,3 +7,5 @@ This data analysis project focuses on the participants of the SkilHarvest Data A
 ## <p align='left'/> Problem statement </p>
 
 ## <p align='left'/> Data transformation and cleaning </p>
+1. Updated the "Timestamp" column data type from "TIMESTAMP" to "DATESTAMP" for improved consistency.
+2. Trimmed 
