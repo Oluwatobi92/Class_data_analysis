@@ -22,3 +22,4 @@ The data utilized for this project was gathered through Google Forms, a versatil
 # <div align='center'/><img src='Images/Image2.JPG'></div>
 ## <p align='left'/> Data visualization </p>
 Power BI was employed as the primary tool for visualizing and analyzing the collected data from the SkilHarvest Data Analysis Bootcamp participants. Power BI, a robust business intelligence platform developed by Microsoft, offered an extensive suite of features that facilitated the exploration and interpretation of the dataset.
+# <div align='center'/><img src='Images/Image3.JPG'></div>
