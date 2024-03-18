@@ -13,8 +13,11 @@ Despite the increasing popularity of data analysis bootcamps, there remains a ne
 The data utilized for this project was gathered through Google Forms, a versatile survey tool, which was distributed among the attendees of the SkilHarvest Data Analysis Bootcamp.
 ## <p align='left'/> Data transformation and cleaning </p>
 1. Updated the "Timestamp" column data type from "TIMESTAMP" to "DATESTAMP" for improved consistency.
-2. Trimmed leading & trailing spaces from the "Occupation" and "Country" columns to correct for inconsistencies
+2. Trimmed leading & trailing spaces from the "Occupation" and "Country" columns to correct for inconsistencies.
 3. Capitalized each word in the "Occupation"column to normalize values like "insuranceadvisor" and "student".
 4. Replaced specific occupation values such as "Teaching" and "Education Officer 2" with amore generic term, "Tutor".
 5. Replaced "Nysc" with "Corper" for consistency.
 6. Standardized all engineering occupations variations by replacing with "Engineer".
+7. Removed duplicate records.
+8. # <div align='center'/><img src='Images/Image2.jpg'></div>
+## <p align='left'/> Data visualization </p>
