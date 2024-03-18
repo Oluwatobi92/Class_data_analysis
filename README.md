@@ -19,5 +19,5 @@ The data utilized for this project was gathered through Google Forms, a versatil
 5. Replaced "Nysc" with "Corper" for consistency.
 6. Standardized all engineering occupations variations by replacing with "Engineer".
 7. Removed duplicate records.
-8. # <div align='center'/><img src='Images/Image2.jpg'></div>
+# <div align='center'/><img src='Images/Image2.jpg'></div>
 ## <p align='left'/> Data visualization </p>
