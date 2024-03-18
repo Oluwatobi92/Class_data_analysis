@@ -15,11 +15,11 @@ The data utilized for this project was gathered through Google Forms, a versatil
 1. Updated the "Timestamp" column data type from "TIMESTAMP" to "DATESTAMP" for improved consistency.
 2. Trimmed leading & trailing spaces from the "Occupation" and "Country" columns to correct for inconsistencies.
 3. Capitalized each word in the "Occupation"column to normalize values like "insuranceadvisor" and "student".
-4. Replaced specific occupation values such as "Teaching" and "Education Officer 2" with amore generic term, "Tutor".
+4. Replaced specific occupation values such as "Teaching" and "Education Officer 2" with a more generic term, "Tutor".
 5. Replaced "Nysc" with "Corper" for consistency.
 6. Standardized all engineering occupations variations by replacing with "Engineer".
 7. Removed duplicate records.
 
-# <div align='center'/><img src='Images/Image2.jpg'></div>
+# <div align='center'/><img src='Images/Image2.JPG'></div>
 ## <p align='left'/> Data visualization </p>
 Power BI was employed as the primary tool for visualizing and analyzing the collected data from the SkilHarvest Data Analysis Bootcamp participants. Power BI, a robust business intelligence platform developed by Microsoft, offered an extensive suite of features that facilitated the exploration and interpretation of the dataset.
