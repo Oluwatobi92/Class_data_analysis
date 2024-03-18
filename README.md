@@ -23,3 +23,12 @@ The data utilized for this project was gathered through Google Forms, a versatil
 ## <p align='left'/> Data visualization </p>
 Power BI was employed as the primary tool for visualizing and analyzing the collected data from the SkilHarvest Data Analysis Bootcamp participants. Power BI, a robust business intelligence platform developed by Microsoft, offered an extensive suite of features that facilitated the exploration and interpretation of the dataset.
 # <div align='center'/><img src='Images/Image3.JPG'></div>
+## <p align='left'/> Insights from analysis </p>
+- Among the 43 participants in the SkilHarvest Data Analytics Bootcamp, interns with SSCE & ND qualifications are underrepresented, comprising only 4.7% of the total cohort.
+- Gender does not seem to play a significant role in determining the interest in learning data analytics, as the gender distribution among interns is fairly balanced.
+- There is a notable interest in data analytics among students, engineers, teachers, and individuals with similar job roles to data analysts, collectively comprising 44.2% of the SkilHarvest Data Analytics Interns population.
+- There is an observable relationship between upskilling interest, age group, and academic qualifications. Specifically, only 16.3% of interns have Msc and they are all within an average group of 30-40. Hence, the need to upskill reduces with increased age and academic qualifications
+
+
+
+
