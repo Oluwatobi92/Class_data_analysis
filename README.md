@@ -7,9 +7,12 @@ This data analysis project focuses on the participants of the SkilHarvest Data A
 - To explore the educational backgrounds of the students, focusing on their highest level of education attained.
 - To identify any patterns or correlations within the dataset that can provide insights into the diversity and preferences of the bootcamp attendees.
 - To utilize Power BI as the primary tool for data visualization and analysis, enabling interactive exploration of the dataset.
-
 ## <p align='left'/> Problem statement </p>
-
+Despite the increasing popularity of data analysis bootcamps, there remains a need to better understand the characteristics and backgrounds of the participants to tailor educational programs effectively. This project aims to address this gap by analyzing the demographic and educational data of SkilHarvest Data Analysis Bootcamp attendees, seeking to identify trends and patterns that can inform future program development and enhance the learning experience for all participants.
 ## <p align='left'/> Data transformation and cleaning </p>
 1. Updated the "Timestamp" column data type from "TIMESTAMP" to "DATESTAMP" for improved consistency.
-2. Trimmed leading & trailing spaces 
+2. Trimmed leading & trailing spaces from the"Occupation" and "Country" columns to correct for inconsistencies
+3. Capitalized each word in the "Occupation"column to normalize values like "insuranceadvisor" and "student".
+4. Replaced specific occupation values suchas "Teaching" and "Education Officer 2" with amore generic term, "Tutor".
+5. Replaced "Nysc" with "Corper" for consistency.
+6. Standardized all engineering occupationsvariations by replacing with "Engineer".
