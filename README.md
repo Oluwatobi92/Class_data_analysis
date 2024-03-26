@@ -23,6 +23,7 @@ The data utilized for this project was gathered through Google Forms, a versatil
 ## <p align='left'/> Data visualization </p>
 Power BI was employed as the primary tool for visualizing and analyzing the collected data from the SkilHarvest Data Analysis Bootcamp participants. Power BI, a robust business intelligence platform developed by Microsoft, offered an extensive suite of features that facilitated the exploration and interpretation of the dataset.
 # <div align='center'/><img src='Images/Image3.JPG'></div>
+https://www.loom.com/share/dff37c091eef4b13877a32c17570f07e?sid=59a5e5b6-576f-4810-b570-5d3e57f56c04
 ## <p align='left'/> Insights from analysis </p>
 - Among the 43 participants in the SkilHarvest Data Analytics Bootcamp, interns with SSCE & ND qualifications are underrepresented, comprising only 4.7% of the total cohort.
 - Gender does not seem to play a significant role in determining the interest in learning data analytics, as the gender distribution among interns is fairly balanced.
